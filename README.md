@@ -13,7 +13,7 @@ JavaFactory operates based on two core components:
 
 Once defined, these patterns can be reused repeatedly to generate various types of code — such as implementations, tests, and fixtures.
 - 🔗 [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27246-javafactory)
-- 📘  [How to use.](docs/how-to-use.md)
+- 📘  [How to use.](https://github.com/JavaFactoryPluginDev/javafactory-plugin/blob/master/docs/howto/howto.md)
 - 🛠 Install: IntelliJ > Settings > Plugins > Search: `JavaFactory`
 
 

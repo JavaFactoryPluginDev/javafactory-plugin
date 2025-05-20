@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.javafactoryplugindev.plugin</id>
-    <name>JavaFactory</name>
+    <name>JavaFactory – Pattern-Based LLM Code Generator</name>
     <vendor email="java.factory.plugin.dev@gmail.com" url="https://github.com/JavaFactoryPluginDev">JavaFactory Team
     </vendor>
 
@@ -10,6 +10,8 @@
 <p>JavaFactory is an LLM-powered IntelliJ plugin that automates code generation from reusable patterns.</p>
 
 <p>JavaFactory eliminates repetitive manual coding tasks. By defining clear patterns and referencing source components with annotations, you can generate fully functional implementation, test, and fixture code directly inside your IDE.</p>
+
+<p> Generate 400 lines of code in 20 seconds. Review it in 30 seconds. Commit with confidence. </p>
 
 <hr />
 
@@ -83,11 +85,9 @@ You’ll never write the same rules of unit test or repository interface twice.<
 
 <h2>Additional Documentation</h2>
 <ul>
-  <li><a href="https://github.com/JavaFactoryPluginDev/javafactory-plugin/blob/master/docs/crawl_java_files.md" target="_blank">Collecting Referenced Classes</a></li>
-  <li><a href="https://github.com/JavaFactoryPluginDev/javafactory-plugin/blob/master/docs/patterns.md" target="_blank">Managing Patterns</a></li>
-  <li><a href="https://github.com/JavaFactoryPluginDev/javafactory-plugin/blob/master/docs/usage_example.md" target="_blank">Usage examples</a></li>
+  <li><a href="https://github.com/JavaFactoryPluginDev/javafactory-plugin" target="_blank">Github, it's open-source project</a></li>
+  <li><a href="https://github.com/JavaFactoryPluginDev/javafactory-plugin/blob/master/docs/howto/howto.md" target="_blank">How to Guide</a></li>
 </ul>
-
 ]]></description>
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.java</depends>
